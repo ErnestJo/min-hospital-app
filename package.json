@@ -1,0 +1,15 @@
+{
+  "name": "min-hospital-app",
+  "version": "1.0.0",
+  "description": "This is min hospital app can be used to track patients ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ErnestJo"
+  },
+  "author": "Ernest Joseph",
+  "license": "ISC"
+}
